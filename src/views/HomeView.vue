@@ -6,10 +6,10 @@
       /></a>
       <nav class="header__menu">
         <ul>
-          <li><a href="#" v-scroll-to="'#aboutAnchor'">About</a></li>
+          <li><a href="#" v-scroll-to="'#aboutAnchor'">Acerca</a></li>
           <li><a href="#" v-scroll-to="'#skillsAnchor'">Skills</a></li>
-          <li><a href="#" v-scroll-to="'#portfolioAnchor'">Portfolio</a></li>
-          <li><a href="#" v-scroll-to="'#contactAnchor'">Contact</a></li>
+          <li><a href="#" v-scroll-to="'#portfolioAnchor'">Portafolio</a></li>
+          <li><a href="#" v-scroll-to="'#contactAnchor'">Contacto</a></li>
         </ul>
       </nav>
     </header>
