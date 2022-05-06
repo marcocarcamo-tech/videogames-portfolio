@@ -2,10 +2,7 @@
   <section id="contact" class="contact">
     <div class="contact-center">
       <h1>Contacto</h1>
-      <p>
-        Para cualquier inquietud, es posible contactarme a través del siguiente
-        formulario
-      </p>
+      <p>Contáctame a través de los siguientes canales de comunicación</p>
       <div class="contact-data">
         <ul>
           <li>
